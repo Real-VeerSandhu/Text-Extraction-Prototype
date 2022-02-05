@@ -48,5 +48,5 @@ are needed to diagnose celiac disease and gluten sensitivity in a clinical setti
 * Read more about rs3184504 on SNPedia
 
 SNPs Involved
-
+ 
 1rs3184504(T:T)
