@@ -1,0 +1,12 @@
+ RESULTS
+
+LIKELY COMPOUND HETEROZYGOUS VARIANTS TO BE CAUSATIVE OF THE REPORTED PHENOTYPE WERE
+
+IDENTIFIED
+Gene (Transcript) * Zygosity Disease (OMIM) Classification
+Exon 4 Seo Heterozygous oy
+PYCR2 (-) (p.Arg is) Hypomyelinating Autosomal athogenic
+(ENSTO0000343818.11) .1A>G leukodystrophy-10 recessive Uncertain
+Exon 1 Heterozygous
+
+(p.Met1?) Significance
